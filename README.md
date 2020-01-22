@@ -7,14 +7,14 @@
 
 ## Redis
 
-#RDB tools
+# RDB tools
 ## Monitoring redis data
 ```
 https://redislabs.com/get-started-with-redis/
 ```
 
-#Summary
-##Firstly we are creating mock data after get the all data and append the redis, Secondly getting data on redis
+# Summary
+## Firstly we are creating mock data after get the all data and append the redis, Secondly getting data on redis
 
 
 # Steps to Setup
@@ -42,7 +42,7 @@ mvn spring-boot:run
 ```
 
 
-#Configuration
+# Configuration
 ## Creating Config file 
 ### your/path/redis-spring-boot/src/main/java/com/dogukanyilmaz/redisspringboot/config
 
