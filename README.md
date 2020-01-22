@@ -20,7 +20,7 @@ https://redislabs.com/get-started-with-redis/
 # Steps to Setup
 ## 1. Clone the application
 ```
- git clone https://github.com/dogukanyilmaz95/Redis-with-Spring-boot
+ git clone https://github.com/dogukanyilmaz95/Spring-boot-Mysql-Redis
 ```
 
 ## 2. Create Mysql database
@@ -43,10 +43,10 @@ mvn spring-boot:run
 
 
 #Configuration
-### Creating Config file 
-####your/path/redis-spring-boot/src/main/java/com/dogukanyilmaz/redisspringboot/config
+## Creating Config file 
+### your/path/redis-spring-boot/src/main/java/com/dogukanyilmaz/redisspringboot/config
 
-####this config file handle the redis is failed or something is wrong
+### this config file handle the redis is failed or something is wrong
 
 
 ### Adding on RedisSpringBootApplication
