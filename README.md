@@ -20,7 +20,7 @@ https://redislabs.com/get-started-with-redis/
 # Steps to Setup
 ## 1. Clone the application
 ```
- git clone https://github.com/dogukanyilmaz95/Spring-boot-Mysql-Redis
+ git clone https://github.com/dogukanyilmaz95/Redis-with-Spring-boot
 ```
 
 ## 2. Create Mysql database
